@@ -456,6 +456,4 @@ docker-compose up -d --build order-service
 - [Eureka Server Documentation](https://cloud.spring.io/spring-cloud-netflix/multi/multi__service_discovery_eureka_clients.html)
 - [Spring Cloud Gateway Documentation](https://spring.io/projects/spring-cloud-gateway)
 
-## License 📝
 
-This project is licensed under the MIT License.
